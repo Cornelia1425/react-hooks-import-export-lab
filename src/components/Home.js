@@ -1,6 +1,8 @@
 import React from "react";
 
-function Home() {
+export default function Home() {
+  const username = "Liza";
+  const city = "New York";
   return (
     <div id="home">
       <h1>
